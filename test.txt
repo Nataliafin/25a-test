@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is test file
+Hello Batch 25a
+This is test file
+script was added
+>>>>>>> 732b675 (two files were modefited)
